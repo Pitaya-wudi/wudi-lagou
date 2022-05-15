@@ -1,4 +1,4 @@
-# pitaya-lagou
+# edu-boss-fed
 
 ## Project setup
 ```
